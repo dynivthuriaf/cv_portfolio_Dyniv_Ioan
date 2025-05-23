@@ -1,0 +1,443 @@
+{
+  "basics": {
+    "name": "Dyniv Ioan Thuriaf BEKALE NZOGHE",
+    "label": "Full stack Developer | AI Developer",
+    "image": "/me_avatar.jpg",
+    "email": "ioandinyoo@gmail.com",
+    "phone": "+33 7 58 06 39 31",
+    "url": "https://johndoe.dev",
+    "summary": "I'm an IT developer with a taste for artificial intelligence, application and software design and development. I'm also well-versed in cybersecurity. I'll be delighted to bring your projects to life.",
+    "theme": "blue",
+    "location": {
+      "address": "",
+      "postalCode": "93200",
+      "city": "Paris",
+      "countryCode": "FR",
+      "region": "France"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "john-doe",
+        "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://fr.linkedin.com/in/ioan-thuriaf-bekale-nzoghe-dyniv-16316b265&ved=2ahUKEwjp37GXmraNAxWtVaQEHZ6eCmgQFnoECB0QAQ&usg=AOvVaw0tk3N78-fB2e4miCg1sXZ5"
+      },
+
+      {
+        "network": "GitHub",
+        "username": "dynivthuriaf",
+        "url": "https://github.com/dynivthuriaf"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Ba&sh",
+      "position": "Data Scientist",
+      "location_type": "On remote",
+      "location": "Paris, France",
+      "url": "https://ba-sh.com/fr/fr/",
+      "startDate": "2023",
+      "endDate": "2023",
+      "summary": "As part of the AI Clinic of Aivancity, we collaborated with Ba&sh's data team on the prediction of customer returns.",
+      "highlights": [
+        "Improved website performance by optimizing code"
+      ],
+      "responsibilities": [
+          "Studied common reasons for returns (size issues, defects, inaccurate descriptions, etc.).",
+          "Collected customer reviews from Trustpilot using web scraping.",
+          "Processed historical return data from Bash.",
+          "Identified trends by product category and origin store.",
+          "Visualized insights using Power BI.",
+          "Explored machine learning models (Logistic Regression, SVM, Random Forest).",
+          "Generated synthetic data to balance the dataset.",
+          "Trained models with oversampling techniques.",
+          "Achieved 91% accuracy with a Random Forest classifier.",
+          "Proposed improvements, including refining return reasons and optimizing dataset balance."
+        ],
+      "achievements": [
+        "In-depth analysis of customer returns and predictive models revealed potential strategies for optimizing the customer experience and reducing returns."
+      ],
+      "skills": [
+        "Python",
+        "Google Colab",
+        "Power bi",
+        "Pandas",
+        "Numpy",
+        "Sciikit-learn",
+        "XGBoost",
+        "Seaborn",
+        "ChatGpt API",
+        "Spacy",
+        "Scrapy",
+        "IBM Return Propensity Model",
+        "Random Forest Classifier"
+      ]
+    },
+    {
+      "name": "Public procurement",
+      "position": "App Developer & Support Technician",
+      "location_type": "Hybrid",
+      "location": "Libreville, Gabon",
+      "url": "http://armp.ga/",
+      "startDate": "2022",
+      "endDate": "2023",
+      "summary": "Development of a business application for electronic public procurement regulation.",
+      "highlights": [
+        "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
+      ],
+      "responsibilities": [
+        "Design and development of a web-based Public Procurement Management application",
+        "Design of models and architecture for the application",
+        "System and network maintenance",
+        "Technical support for users",
+        "Troubleshooting and resolution of hardware and software problems",
+        "Administration and management of IT assets"
+      ],
+      
+      "skills": [
+        "Javascript",
+        "Ember Js",
+        "Node Js",
+        "Tailwind css",
+        "Github",
+        "Typescript",
+        "Medicat"
+      ]
+    },
+    {
+      "name": "Fontecsys Sarl",
+      "position": "Web Developer & Applications Support Technician",
+      "location_type": "On site",
+      "location": "Libreville, Gabon",
+      "url" : "https://www.fontecsys.com/",
+      "startDate": "2021",
+      "endDate": "2021",
+      "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
+      "highlights": [
+        "Completed several client projects successfully"
+      ],
+      "responsibilities": [
+        "Development and deployment of a software package for a medical laboratory using the laravel and codeigniter frameworks",
+        "Troubleshooting and maintenance of web applications",
+        "Technical support for users",
+        "Intrusion testing and vulnerability identification using Wget ",
+        "Mock-up design with webflow",
+        "Backup and migration of certain applications to new domains"
+      ],
+      "achievements": [
+        "Successful business software development"
+      ],
+      "skills": [
+        "HTML",
+        "CSS",
+        "PHP",
+        "Laravel",
+        "CodeIgniter",
+        "Javascript",
+        "Wordpress",
+        "Wget",
+        "VirtualBox",
+        "CentOs"
+      ]
+    }
+  ],
+
+  "education": [
+    {
+      "institution": "Ecole Hexagone",
+      "url": "https://www.ecole-hexagone.com/fr/fr/",
+      "area": "Cybersecurity",
+      "studyType": "Master of science",
+      "startDate": "2024",
+      "endDate": "2025",
+      "score": "3.8",
+      "courses": [
+        "CS101 - Introduction to Computer Science",
+        "CS102 - Data Structures"
+      ]
+    },
+    {
+      "institution": "Aivancity",
+      "url": "https://www.aivancity.ai/",
+      "area": "Artificial intelligence Engineering",
+      "studyType": "3rd year grande ecole program",
+      "startDate": "2023",
+      "endDate": "2024",
+      "score": "3.9",
+      "courses": [
+        "SE201 - Advanced Software Development",
+        "SE202 - Software Architecture and Design"
+      ]
+    },
+    {
+      "institution": "National Institute for Post and Information and Communication Technologies",
+      "url": "https://www.inptic-ga.org",
+      "area": "Information Technology",
+      "studyType": "Bachelor's degree",
+      "startDate": "2019",
+      "endDate": "2022",
+      "score": "3.7",
+      "courses": [
+        "IT101 - Networking Fundamentals",
+        "IT102 - Database Management Systems"
+      ]
+    }
+  ],
+  "certificates": [
+    
+  ],
+  "skills": [
+    {
+      "name": "Python",
+      "level": "Expert",
+      "keywords": [
+        "Design",
+        "UI"
+      ]
+    },
+    {
+      "name": "Gitlab",
+      "level": "Intermediate",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code"
+      ]
+    },
+    {
+      "name": "HTML",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "CSS Framework",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "JavaScript",
+        "Server"
+      ]
+    },
+    {
+      "name": "MySQL & SQL",
+      "level": "Intermediate",
+      "keywords": [
+        "Databases",
+        "SQL",
+        "Data Storage",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Intermediate",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Intermediate",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code",
+        "Git"
+      ]
+    },
+    {
+      "name": "Java",
+      "level": "Beginner",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "Amgular Js",
+      "level": "Beginner",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "Flutter/Dart",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Intermediate"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Technology",
+      "keywords": [
+        "AI",
+        "Blockchain"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Smith",
+      "reference": "Reference…"
+    }
+  ],
+
+
+  
+  "projects": [
+    {
+      "name": "DevOps AI",
+      "isActive": false,
+      "description": "Automating AI Application Deployment",
+      "highlights": [
+        "Creation of a customized Docker image for a Node.js application.",
+        "Automate system updates and Docker image building using an Ansible playbook.",
+        "Deploy a web application and Redis infrastructure on a Kubernetes cluster using Helm.",
+        "Customize Kubernetes deployment using values.yaml."
+      ],
+      
+      "github": "https://github.com/dynivthuriaf/DevOps-AI"
+    },
+    {
+      "name": "Signal Processing with Python",
+      "isActive": true,
+      "description": "It demonstrates core concepts like signal generation, manipulation, Fourier Transform (FFT) for frequency analysis, filtering, sampling (Nyquist theorem), and convolutions through executable code examples and explanations.",
+      "highlights": [
+        "Signal manipulation: Creation, manipulation and visualization of digital signals using Python libraries such as NumPy and Matplotlib.",
+        "Frequency analysis (Fourier transform)",
+        "Filtering",
+        "Sampling and Nyquist's Theorem",
+        "Convolutions"
+      ],
+      "url": ""
+    },
+    {
+      "name": "Task Manager",
+      "isActive": true,
+      "description": "A simple task management app to keep track of daily tasks.",
+      "highlights": [
+        "Built with Node.js and MongoDB",
+        "User authentication and CRUD operations"
+      ],
+      "url": "https://taskmanager.com"
+      
+    },
+    {
+      "name": "Machine Learning Advanced framework",
+      "isActive": false,
+      "description": "Time Series Analysis",
+      "highlights": [
+        "Cointegration Simulation and estimation",
+        "Creating a preprocessing function for modular predictor creation",
+        "Features Engineering",
+        "Assessment of the new Model"
+      ],
+      
+      "github":"https://github.com/dynivthuriaf/Time-Series-Analysis/tree/main"
+    },
+    {
+      "name": "Bank Analysis",
+      "isActive": false,
+      "description": "This Project Applies Machine Learning in Marketing Prediction for a Bank ",
+      "highlights": [
+        "Data Preparation",
+        "Exploratory Data Analysis",
+        "Data Preprocessing",
+        "Model Training by implementation of different classifiers and Tuning Hyperparameters",
+        "Model Evaluation by assessing performance with MCC,ROC Curves and classification reports",
+        "Interpretation & Insights"
+      ],
+      
+      "github":"https://github.com/dynivthuriaf/Bank-Analysis"
+    },
+        {
+      "name": "Data Collection App",
+      "isActive": false,
+      "description": "This project used to be developed with Google Fit Api For user's Data Collection",
+      "highlights": [
+        "Android Studio interface development with Flutter",
+        "Generation of a key for the google fit api",
+        "Connecting the customer account to a firebase database via Google platform"
+      ]
+    },
+     {
+      "name": "Development of a conversational assistant connected to the Ethereum blockchain for Atos",
+      "isActive": false,
+      "description": "Finally, the aim was to develop a conversational assistant connected to the ethereum blockchain, capable of giving the price of gas and ether.",
+      "highlights": [
+        "Feasibility study",
+        "Architectural design",
+        "Architecture design including natural language processing, user interface and Ethereum blockchain access modules",
+        "Code development with Kotlin on Itellij IDE",
+        "Tests"
+      ]
+    }
+  ]
+}
